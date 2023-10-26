@@ -1,0 +1,15 @@
+.ContactList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+.phoneBook {
+  list-style: none;
+  border-bottom: 1px solid gray;
+  justify-content: space-between;
+  color: #f3f1f1;
+}

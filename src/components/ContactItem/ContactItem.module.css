@@ -1,0 +1,31 @@
+.delBtn {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 17px;
+  padding-right: 17px;
+  border-radius: 5px;
+  margin-bottom: 3px;
+
+  background-color: #a1378b;
+  border: solid 1px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  color: aliceblue;
+  margin-left: auto;
+}
+
+.delBtn:active {
+  background-color: #aaa;
+}
+
+.addBtn:active {
+  background-color: #aaa;
+}
+
+.div {
+  display: flex;
+}
+
+.ContactItemName {
+  padding-right: 15px;
+}
